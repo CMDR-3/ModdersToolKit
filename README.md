@@ -22,6 +22,8 @@ I don't know. Wanna make a mod? Use the MTK! It'll be easy. I hope.
 # Setup
 
 Just download/compile the DLL, add as a refrence, and check out the Wiki for getting started.
+To edit the mod, clone the repo, and if using Visual Studio, package all of the code into a folder called "ModdersToolKit"
+In the same directory as this new folder, place the solution file. Then, open the solution and you should be good.
 
 # To-do
 
