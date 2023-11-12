@@ -25,6 +25,8 @@ Just download/compile the DLL, add as a refrence, and check out the Wiki for get
 To edit the mod, clone the repo, and if using Visual Studio, package all of the code into a folder called "ModdersToolKit"
 In the same directory as this new folder, place the solution file. Then, open the solution and you should be good.
 
+![What it should look like](https://cdn.discordapp.com/attachments/1133242386198315089/1173205134508048474/image.png?ex=65631b6d&is=6550a66d&hm=8e40124a93b66f8b44b1b758b69671020f655150f24b7f9be739cd70d652e70e&)
+
 # To-do
 
 - [X] Mixins (sorta, only injection is made.)
