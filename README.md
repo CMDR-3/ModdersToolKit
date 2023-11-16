@@ -39,7 +39,11 @@ If you actually want to help - go ahead and help! I wont mind.
 - [x] Wiki (incomplete)
 - [x] Custom Boombox Music
 
-# Dependancies for building
+# Dependencies for building
 
 Harmony is the only dependancy you need as of right now to add as a refrence in order to build.
 It can be found [here](https://github.com/pardeike/Harmony)
+
+
+You also need the base Unity refrences, like what would be required for creating a MelonMod.
+If you get any errors, make sure to add certain things as refrences.
