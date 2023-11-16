@@ -38,3 +38,8 @@ If you actually want to help - go ahead and help! I wont mind.
 - [ ] Writing to chat
 - [x] Wiki (incomplete)
 - [x] Custom Boombox Music
+
+# Dependancies for building
+
+Harmony is the only dependancy you need as of right now to add as a refrence in order to build.
+It can be found [here](https://github.com/pardeike/Harmony)
