@@ -1,3 +1,7 @@
+# NOTICE!!!
+I've decided to make this repository read only as I've lost complete and total interest in Lethal Company.</br>
+You can look through it and use the garbage spaghetti code if you want.
+
 # ModdersToolKit
 Fan-made SDK for Lethal Company using C# and MelonLoader.
 
